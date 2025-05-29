@@ -1,6 +1,7 @@
 # HR Employee Distribution Dashboard | SQL + Power BI
 
 ![HR Employee Dashboard](./Screenshot%202025-05-29%20233844.png)
+![HR Employee Dashboard-page2](./HR-Dashboard/blob/main/image.png)
 
 This project presents an interactive Power BI dashboard developed using cleaned and transformed HR data to analyze employee demographics, diversity, geographical spread, and attrition trends. The objective is to deliver actionable insights for HR decision-making through effective data visualization and storytelling.
 
