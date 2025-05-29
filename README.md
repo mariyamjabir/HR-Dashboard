@@ -1,2 +1,2 @@
 # HR-Dashboard
-HR Dashboard - SQL &amp; PowerBI
+HR Dashboard - SQL - PowerBI
