@@ -1,10 +1,6 @@
 # HR Employee Distribution Dashboard | SQL + Power BI
 
-![Dashboard Screenshot](03349b95-1fa6-4161-ac1e-4f6f9cf0caa2.png)
-
 This project presents an interactive Power BI dashboard developed using cleaned and transformed HR data to analyze employee demographics, diversity, geographical spread, and attrition trends. The objective is to deliver actionable insights for HR decision-making through effective data visualization and storytelling.
-
----
 
 ## 📁 Project Overview
 
@@ -22,15 +18,11 @@ The dashboard addresses key questions such as:
 10. How has the employee count changed over time (hire vs. term date)?  
 11. What is the tenure distribution per department?
 
----
-
 ## Tools Used
 
 - Power BI  
 - MySQL (Data Cleaning & Analysis)  
 - Excel  
-
----
 
 ## Data Cleaning (via SQL)
 
@@ -39,8 +31,6 @@ The dashboard addresses key questions such as:
 - Converted date fields to DATE format
 - Cleaned termdate and created an active/inactive status
 - Categorized age groups (18–24, 25–34, 35–44, etc.)
-
----
 
 ## Key Insights
 
